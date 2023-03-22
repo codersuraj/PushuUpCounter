@@ -1,0 +1,70 @@
+body {
+    background-image: url("https://cdn.muscleandstrength.com/sites/default/files/field/feature-image/article/bodybuilder-double-bicep-flex-800.jpg");
+    
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+ 
+    background-size: cover;
+    font-family:'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+}
+h3 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: green;
+    border: white solid 1px;
+}
+
+#save-btn {
+    background: #FFCC19;
+    border: white solid 1px;
+}
+
+.big{
+    padding:5%;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
+    backdrop-filter: blur(13px);
+    max-width: 500px;
+    margin: auto;
+}
+
+#save-el {
+    font-family: sans-serif;font-size: 15px;
+}
+
+
+ 
